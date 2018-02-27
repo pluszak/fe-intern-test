@@ -26,3 +26,5 @@
     Good luck!
 
 */
+
+console.log('test');
